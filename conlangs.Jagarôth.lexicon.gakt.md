@@ -2,12 +2,11 @@
 id: gc5xzfddhfmfcovehhjc8b4
 title: gakt
 desc: 
-updated: 2026 May 18 - 22:11:24
+updated: 2026 Aug 02 - 13:50:40
 created: 2026 May 18 - 22:08:21
 ---
-
-gakt :: verbal root :: dance
-valency: S (nom) vb.  S (nom) vb. O (acc)
+# gakt :: verbal root :: dance
+valency :: intransitive: S (nom) vb. transitive: S (nom) vb. O (acc)
 
 jûjor gaktâleps-meg ??
 will you dance with me??

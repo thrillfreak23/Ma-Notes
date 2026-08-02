@@ -2,15 +2,12 @@
 id: 1h1oh9siihoamoi3299kusb
 title: kark
 desc: 
-updated: 2026 May 18 - 21:39:41
+updated: 2026 Aug 02 - 15:06:54
 created: 2026 May 18 - 08:12:18
 ---
-
-kark :: verbal root :: to slave, do hard labor
-valency :: S vb 
-
-
-takûb karkazâlen ::
-that.time-adv labor.ActPart.FIN.1s
-At that time, I worked hard.
+# kark :: verbal root :: to slave, do hard labor
+- valency :: Subject vb :: the end, there is no more
+- example :: takûb karkazâlem ::
+- parse :: that.time-LocativeAdverbial labor.ActiveParticipial.Finite.1stPersonSingularSubject
+- translation :: At that time, I was working hard.
 

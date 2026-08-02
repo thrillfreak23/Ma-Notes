@@ -2,12 +2,15 @@
 id: tcs7rpjwqg3s1rzycaj2lmc
 title: kek
 desc: 
-updated: 2026 May 18 - 21:51:13
+updated: 2026 Aug 02 - 13:48:59
 created: 2026 May 18 - 21:49:56
 ---
 
-kek :: adj :: other
+# kek
+- verbal root :: strike, hit, smite 
+- example :: âr-kekâlem-tat vêgorotech ::
+- parse :: ToCompletion-smite.FIN.1sg wolf.Accusative.unowned
+- translation :: I killed the wild wolf.
+- valency :: transitive :: agent=subject=nominative. patient=object=accusative.
 
-jûjor gaktâleps ??
-QUESTION dance.FIN.2s
-Do you dance?
+
